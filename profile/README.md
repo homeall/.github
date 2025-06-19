@@ -13,6 +13,6 @@ We automate things so we can break even more things, faster.
 ---
 
 ☕️ If my scripts saved you from rage-quitting your homelab, buy me a coffee!  
-[https://buymeacoffee.com/homeall](https://buymeacoffee.com/homeall)
+[![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&slug=homeall&button_colour=FFDD00&font_colour=000000&font_family=Arial&outline_colour=000000&coffee_colour=ffffff)](https://buymeacoffee.com/homeall)
 
 *(Your uptime will thank you. Probably.)*
