@@ -1,12 +1,18 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
+Welcome to the HomeAll nerd cave!  
+Where YAML meets caffeine, and **everything can (and probably should) be automated**.
 
-**Here are some ideas to get you started:**
+- 🛠️ **DevOps Maniac** — Ansible? Terraform? Terragrunt? Yes, please.
+- 🏠 **Homelab Pro** — Proxmox clusters are my spirit animal.
+- 🚀 **GitOps or bust!** — If it’s not in Git, does it even exist?
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+We break things so you don’t have to.  
+We automate things so we can break even more things, faster.
+
+---
+
+☕️ If my scripts saved you from rage-quitting your homelab, buy me a coffee!  
+[https://buymeacoffee.com/homeall](https://buymeacoffee.com/homeall)
+
+*(Your uptime will thank you. Probably.)*
