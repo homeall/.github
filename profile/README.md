@@ -1,14 +1,14 @@
-# Hi there 👋
+# AI Ops Lab by Emil 🔧🤖
 
-Welcome to the HomeAll nerd cave!  
-Where YAML meets caffeine, and **everything can (and probably should) be automated**.
+Automate smarter with **AI + n8n**. 🤖⚡  
+Short, copy-paste tutorials and real DevOps tips from a homelab-obsessed engineer. 🏠🧪  
+We break things so you don’t have to — and automate so we can break better. 🔁🔥
 
-- 🛠️ **DevOps Maniac** — Ansible? Terraform? Terragrunt? Yes, please.
-- 🏠 **Homelab Pro** — Proxmox clusters are my spirit animal.
-- 🚀 **GitOps or bust!** — If it’s not in Git, does it even exist?
-
-We break things so you don’t have to.  
-We automate things so we can break even more things, faster.
+### What you’ll get 📦
+- 🧩 n8n workflows & AI agents (Claude, OpenAI, MCP)  
+- 🔗 Webhooks, APIs, scraping, observability  
+- 🛠️ Practical DevOps: **GitOps, Kubernetes, Terraform, Proxmox**  
+- 🎁 Free templates + project code on GitHub
 
 ---
 
