@@ -1,7 +1,9 @@
 # AI Ops Lab by Emil 🔧🤖
 
-Automate smarter with **AI + n8n**. 🤖⚡  
-Short, copy-paste tutorials and real DevOps tips from a homelab-obsessed engineer. 🏠🧪  
+Automate smarter with **AI + n8n**. 🤖⚡
+  
+Short, copy-paste tutorials and real DevOps tips from a homelab-obsessed engineer. 🏠🧪
+  
 We break things so you don’t have to — and automate so we can break better. 🔁🔥
 
 ### What you’ll get 📦
