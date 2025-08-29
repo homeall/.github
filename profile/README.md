@@ -22,6 +22,9 @@ graph TD
 ```
 *Where AI meets infrastructure... and occasionally explodes* 💥
 
+### 🐍 Contribution Snake Game
+![Snake Game](https://github.com/homeall/homeall/blob/output/github-contribution-grid-snake.svg)
+
 ---
 
 **Automate smarter with AI + n8n.** 🤖⚡
