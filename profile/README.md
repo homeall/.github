@@ -23,7 +23,7 @@ graph TD
 *Where AI meets infrastructure... and occasionally explodes* 💥
 
 ### 🐍 Contribution Snake Game
-![Snake Game](https://github.com/homeall/homeall/blob/output/github-contribution-grid-snake.svg)
+![Snake Game](https://github.com/homeall/.github/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
