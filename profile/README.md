@@ -59,9 +59,14 @@ Usage: ./run_workflow.sh [--pray] [--backup-first] [--blame-dns]
 
 ---
 
-☕️ If my scripts saved you from rage-quitting your homelab, [![buy me a coffee](https://img.shields.io/badge/buy%20me%20a%20coffee-yellow?logo=buymeacoffee&logoColor=white)](https://buymeacoffee.com/homeall)!
+### ☕️ Fuel the Lab
+Did these workflows prevent a rage-induced server restart? 
 
-*Your uptime will thank you. Your sanity will thank you. Your server rack... well, it'll probably still be loud, but at least it'll be* **automated** *loud.* 🔊🤖
+[![buy me a coffee](https://img.shields.io/badge/buy%20me%20a%20coffee-FFDD44?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/homeall)
+
+*Because caffeine is the only dependency that never breaks.* ☕️⚡
+
+---
 
 **P.S.** No homelabs were harmed in the making of these workflows. *(Okay, fine, three servers, two network switches, and one very confused UPS. But hey, that's how we discovered that "turning it off and on again" works even better when automated!)* 💾🔥⚡
 
